@@ -9,3 +9,6 @@ A small client-side Fabric mod for Minecraft 26.3. It is written from scratch fo
 
 ## Building
 Java 25 and the Gradle wrapper: `./gradlew build`. The jar is in `build/libs/`.
+
+## License
+MIT License, see `LICENSE`.
