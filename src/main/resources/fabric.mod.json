@@ -4,6 +4,7 @@
 	"version": "${version}",
 	"name": "Gamma-Mod",
 	"description": "Full bright toggle (default key K): gives the player a client-side Night Vision effect. A from-scratch rewrite for Minecraft 26.3 of 3bdoabk's Gamma-Mod 1.0, for personal use.",
+	"license": "MIT",
 	"authors": [
 		"Robert Huntington"
 	],
