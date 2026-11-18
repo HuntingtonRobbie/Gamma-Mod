@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "gamma-mod",
+	"version": "${version}",
+	"name": "Gamma-Mod",
+	"description": "Full bright toggle (default key K): gives the player a client-side Night Vision effect. A from-scratch rewrite for Minecraft 26.3 of 3bdoabk's Gamma-Mod 1.0, for personal use.",
+	"authors": [
+		"Robert Huntington"
+	],
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.robbie.gammamod.GammaModClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
